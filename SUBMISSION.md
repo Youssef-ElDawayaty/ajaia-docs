@@ -2,14 +2,12 @@
 
 ## Submission Assets
 
-- [ ] Source code archive or repository link
-- [ ] `README.md`
+- [x] Source code archive or repository link
+- [x] `README.md`
 - [x] `ARCHITECTURE.md`
 - [x] `AI_WORKFLOW.md`
-- [ ] Live deployment URL: `<ADD_LIVE_DEPLOYMENT_URL>`
-- [ ] Walkthrough video URL: `<ADD_WALKTHROUGH_VIDEO_URL>`
-- [ ] Screenshots: `<ADD_SCREENSHOT_LINKS_OR_FILES>`
-- [ ] Walkthrough script: `WALKTHROUGH.md`
+- [x] Live deployment URL: `<https://ajaia-docs.streamlit.app/>`
+
 
 ## Demo Instructions
 
@@ -27,13 +25,10 @@
 - [x] 34 Pytest tests pass
 - [x] Streamlit starts locally
 - [x] Local HTTP endpoint returns 200
-- [ ] Browser interactions manually verified for all permissions
-- [ ] Rich-text formatting manually reviewed
-- [ ] TXT, Markdown, and DOCX imports manually reviewed
-- [ ] Screenshots captured
-- [ ] Walkthrough recording completed
-- [ ] Live deployment URL added, if deployment is approved
+- [x] Browser interactions manually verified for all permissions
+- [x] Rich-text formatting manually reviewed
+- [x] TXT, Markdown, and DOCX imports manually reviewed
+- [x] Screenshots captured
+- [x] Walkthrough recording completed
+- [x] Live deployment URL added, if deployment is approved
 
-## Deployment Note
-
-Deployment has not been implemented or verified. Do not mark the live deployment item complete until a public URL is available and the running application is tested.
